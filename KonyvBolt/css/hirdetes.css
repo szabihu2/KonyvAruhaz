@@ -1,0 +1,21 @@
+
+
+.searchbar 
+{
+	background-color: #daa17a;
+	border-color: #efb086;
+	color: black;
+}
+
+#submit
+{
+	background-color: #cd957f;
+	
+	border-color: #efb086;
+}
+
+::placeholder
+{
+    color: black;
+}
+
